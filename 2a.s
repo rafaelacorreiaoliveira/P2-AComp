@@ -15,6 +15,8 @@ lw x10,a
 lw x11,b
 lw x12,c
 
+#Realizar a operação
+
 add x10, x10, x11
 sub x10, x10, x12
 slli x12, x12, 1 #2c
