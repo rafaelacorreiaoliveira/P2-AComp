@@ -1,6 +1,6 @@
 .data
 
-#Inicializar as vari·veis
+#Inicializar as vari√°veis
 
 a: .word 3
 b: .word 7
